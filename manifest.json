@@ -1,0 +1,11 @@
+{
+  "name": "نظام مياه السوفعي",
+  "short_name": "السوفعي",
+  "description": "نظام الرقابة والتحكم المركزي 2026",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000814",
+  "theme_color": "#4cc9f0",
+  "orientation": "portrait",
+  "icons": []
+}
